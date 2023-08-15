@@ -34,7 +34,9 @@ npm init
 
 npm install cors-anywhere
 
+
 --------------------------------------
+
 Step 5: Start the Server, run this command :
 
 node server.js
