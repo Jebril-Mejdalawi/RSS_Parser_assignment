@@ -33,6 +33,7 @@ while in the server folder directory, run this command :
 npm init
 
 npm install cors-anywhere
+
 --------------------------------------
 Step 5: Start the Server, run this command :
 
